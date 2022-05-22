@@ -15,7 +15,7 @@
 
 <br><h2></h2><br>
 
-<div >
+<div align="center">
  <div>
    <p>&nbsp;
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=natersland&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="akira" />
