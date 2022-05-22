@@ -22,6 +22,7 @@
   <img alt="MUI" src="https://img.shields.io/badge/-MUI-007fff?style=flat&logo=mui&logoColor=white" />
 - 🎏Love to develop MERN stack application
 - 📫 Contact me: [akira.chenyavanij@gmail.com](akira.chenyavanij@gmail.com)
+- 🧚🏻Fun Fact: When I have favorite food, I can eat the same thing everyday continue to 1 month streak.
 
 <br><h2></h2><br><br><br>
 
