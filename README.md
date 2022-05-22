@@ -13,7 +13,6 @@
 
 <img src="https://github.com/natersland/test/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Akira" align="right" />
   <br><br>
-<br><br>
 
 - 🪐Always learning and try something new. 
 - ⚡️Currently learning in 
