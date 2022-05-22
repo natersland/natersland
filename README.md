@@ -1,12 +1,24 @@
 
 <h1 align="center">🚀🐳 Hi, I'm Akira! 🐳🚀</h1> 
-<p align="center"></p>
 
-- ⚡️I'm currently learning in TypeScript & Pug
-- 📫 How to reach me: [akira.chenyavanij@gmail.com](akira.chenyavanij@gmail.com)
-- 
+<h3 align="center">Coding like playing a game!</h3>
+<br>
+<br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natersland&layout=compact" alt="Akira" align="right" />
+
+
+- 🪐Always learning and try something new. 
+- ⚡️Currently learning in <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" /> & <img alt="Pug" src="https://img.shields.io/badge/-Pug-ffffff?style=flat&logo=pug" />
+- 🎏Love to develop MERN stack application
+- 📫 Contact me: [akira.chenyavanij@gmail.com](akira.chenyavanij@gmail.com)
+<hr>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=natersland&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="akira" /></p>
+ <div>
+   <p>&nbsp;
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=natersland&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="akira" />
+   </p>
+  </div>
 
 <p>
   <hr>
