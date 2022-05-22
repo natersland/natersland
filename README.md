@@ -8,9 +8,7 @@
    <a href="mailto:akira.chenyavanij@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-akira.chenyavanij@gmail.com-bc4c41?style=flat&logo=gmail&logoColor=white" /></a>
 <img src="https://www.codewars.com/users/natersland/badges/micro" />
  <span>
-<br>
-<br>
-<br>
+<br><br><br>
 
 
 <img src="https://github.com/natersland/test/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Akira" align="right" />
@@ -24,7 +22,7 @@
 - 🎏Love to develop MERN stack application
 - 📫 Contact me: [akira.chenyavanij@gmail.com](akira.chenyavanij@gmail.com)
 
-<br><h2></h2><br>
+<br><h2></h2><br><br><br>
 
 <div align="center">
  <div>
