@@ -6,6 +6,7 @@
 <br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natersland&layout=compact" alt="Akira" align="right" />
+<img align="right" src="https://raw.githubusercontent.com/natersland/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="akira" />
 
 
 - 🪐Always learning and try something new. 
