@@ -2,7 +2,7 @@
 <h1 align="center">🚀🐳 Hi, I'm Akira! 🐳🚀</h1> 
 <p align="center"></p>
 
-- ⚡️I'm currently learning in TypeScript
+- ⚡️I'm currently learning in TypeScript & Pug
 - 📫 How to reach me: [akira.chenyavanij@gmail.com](akira.chenyavanij@gmail.com)
 - 
 <div align="center">
