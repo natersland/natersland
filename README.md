@@ -2,6 +2,12 @@
 <h1 align="center">🚀🐳 Hi, I'm Akira! 🐳🚀</h1> 
 
 <h3 align="center">Coding like playing a game!</h3>
+<span>
+ <a href="https://www.linkedin.com/in/akira-chenyavanij-18661714a/"><img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-0274b3?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akira.chenyavanij@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-gmail-white?style=flat&logo=gmail" /></a>
+<img src="https://www.codewars.com/users/natersland/badges/micro" />
+ <span>
+<br>
 <br>
 <br>
 
