@@ -1,6 +1,6 @@
 
 <h1 align="center">🚀🐳 Hi, I'm Akira! 🐳🚀</h1> 
-<p align="center">xxxxx</p>
+<p align="center"></p>
 
 - ⚡️I'm currently learning in TypeScript
 - 📫 How to reach me: [akira.chenyavanij@gmail.com](akira.chenyavanij@gmail.com)
