@@ -5,9 +5,9 @@
 <br>
 <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natersland&layout=compact" alt="Akira" align="right" />
-<img align="right" src="https://raw.githubusercontent.com/natersland/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="akira" />
 
+<img src="https://github.com/natersland/test/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Akira" align="right" />
+<br><br>
 
 - 🪐Always learning and try something new. 
 - ⚡️Currently learning in <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" /> & <img alt="Pug" src="https://img.shields.io/badge/-Pug-ffffff?style=flat&logo=pug" />
@@ -20,6 +20,7 @@
  <div>
    <p>&nbsp;
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=natersland&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="akira" />
+     <img src="https://github.com/natersland/test/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Akira" align="right" />
    </p>
   </div>
 <br><h2></h2><br>
