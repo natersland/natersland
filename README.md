@@ -19,10 +19,12 @@
 <div align="center">
  <div>
    <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=natersland&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="akira" />
+     <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=natersland&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="akira" />
      <img src="https://github.com/natersland/test/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Akira" align="right" />
    </p>
   </div>
+ <br><br><br><br><br>
+ <br><br><br>
 <br><h2></h2><br>
 <p>
   <h3> Front-End</h3>
