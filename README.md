@@ -12,16 +12,17 @@
 - ⚡️Currently learning in <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" /> & <img alt="Pug" src="https://img.shields.io/badge/-Pug-ffffff?style=flat&logo=pug" />
 - 🎏Love to develop MERN stack application
 - 📫 Contact me: [akira.chenyavanij@gmail.com](akira.chenyavanij@gmail.com)
-<hr>
-<div align="center">
+
+<br><h2></h2><br>
+
+<div >
  <div>
    <p>&nbsp;
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=natersland&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="akira" />
    </p>
   </div>
-
+<br><h2></h2><br>
 <p>
-  <hr>
   <h3> Front-End</h3>
   <img alt="React" src="https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white" />
   <img alt="Style Component" src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
