@@ -1,7 +1,7 @@
 
 <h1 align="center">🚀🐳 Hi, I'm Akira! 🐳🚀</h1> 
 
-<h3 align="center">Coding like playing a game!</h3>
+<h3 align="center">Coding is like a fantasy!</h3>
 <span>
  <a href="https://www.linkedin.com/in/akira-chenyavanij-18661714a/"><img alt="Linkedin" src="https://img.shields.io/badge/-Akira_Chenyavanij-0274b3?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Nut1974"><img alt="Discord" src="https://img.shields.io/badge/-Nut1974-5865F2?style=flat&logo=discord&logoColor=white" /></a>
