@@ -6,7 +6,7 @@
 <br>
 
 
-<img src="https://github.com/natersland/test/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Akira" align="right" />
+<img src="https://github.com/natersland/test/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Akira" align="right" />
 <br><br>
 
 - 🪐Always learning and try something new. 
@@ -25,7 +25,8 @@
  </div>
 <br><h2></h2><br>
 <p>
-  <img src="https://github.com/natersland/test/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Akira" align="left" />
+  
+ <img src="https://github.com/natersland/test/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Akira" align="left" />
  <br><span>Things I code with</span><br>
   <img alt="React" src="https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white" />
   <img alt="Style Component" src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
