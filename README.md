@@ -22,7 +22,7 @@
   <img alt="Pug" src="https://img.shields.io/badge/-Pug-ffffff?style=flat&logo=pug" />
   <img alt="MUI" src="https://img.shields.io/badge/-MUI-007fff?style=flat&logo=mui&logoColor=white" /><br>
 - 🎏Love to develop MERN stack application<br>
-- 📫 Contact me: [akira.chenyavanij@gmail.com](akira.chenyavanij@gmail.com)<br>
+ - 📫 Contact me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a><br>
 - 🧚🏻Fun Fact: When I have favorite food, I can eat the same thing everyday continue to 1 month streak.<br>
 </p>
 <br><h2></h2><br><br><br>
