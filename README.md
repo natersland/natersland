@@ -56,7 +56,6 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white" />
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white" />
