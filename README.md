@@ -18,8 +18,8 @@
 <p align="left">
 - 🪐Always learning and try something new. <br>
 - ⚡️Currently learning in 
+   <img alt="aseprite" src="https://img.shields.io/badge/-Aseprite-584651?style=flat&logo=aseprite&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" /> 
-  <img alt="Pug" src="https://img.shields.io/badge/-Pug-ffffff?style=flat&logo=pug" />
   <img alt="MUI" src="https://img.shields.io/badge/-MUI-007fff?style=flat&logo=mui&logoColor=white" /><br>
 - 🎏Love to develop MERN stack application<br>
  - 📫 Contact me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a><br>
