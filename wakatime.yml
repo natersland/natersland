@@ -14,4 +14,9 @@ jobs:
       - uses: natersland/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_BY_ME: true
+          SHOW_UPDATED_DATE: true
+          SHOW_LINES_OF_CODE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_COMMIT: true
           
