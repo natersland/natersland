@@ -1,19 +1,20 @@
-name: Waka Readme
+
+name: Work Stats Readme
 
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
   workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: natersland/waka-readme-stats@master
+      - uses: natersland/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: last_30_days
-          SHOW_TOTAL: true
-          SHOW_TIME: false
-          SHOW_TITLE: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_COMMIT: true
+
