@@ -63,17 +63,10 @@
     <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
   <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" />
 </p>
-
+<br><br><br><br><br><br>
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   47 hrs 24 mins  ████████████████████████▒   97.54 %
-JSON         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-CSS          17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-TypeScript   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-HTML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-```
+
 
 <!--END_SECTION:waka-->
 
