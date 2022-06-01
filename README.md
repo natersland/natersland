@@ -67,6 +67,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 24 May 2022 - To: 31 May 2022
+
 JavaScript   47 hrs 24 mins  ████████████████████████▒   97.54 %
 JSON         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 CSS          17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
