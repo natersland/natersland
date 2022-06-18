@@ -17,10 +17,9 @@
 - 🪐Always learning and try something new. <br>
 - ⚡️Currently learning in 
   <img alt="Java" src="https://img.shields.io/badge/Java-ea2e2c?logo=java&style=flat" /> 
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" /> 
-- 🎏Love to develop MERN stack application<br>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" /> <br>
  - 📫 Contact me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a><br>
-- 🧚🏻Fun Fact: When I have favorite food, I can eat the same thing everyday continue to 1 month streak.<br>
+<br>
 </p>
 <br><h2></h2><br><br><br>
 
