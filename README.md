@@ -6,8 +6,9 @@
  <a href="https://www.linkedin.com/in/akira-chenyavanij-18661714a/"><img alt="Linkedin" src="https://img.shields.io/badge/-Akira_Chenyavanij-0274b3?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Nut1974"><img alt="Discord" src="https://img.shields.io/badge/-Nut1974-5865F2?style=flat&logo=discord&logoColor=white" /></a>
    <a href="mailto:akira.chenyavanij@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-akira.chenyavanij@gmail.com-bc4c41?style=flat&logo=gmail&logoColor=white" /></a>
+
  <div>
-  
+
 <br><br>
   
 <img src="https://github.com/natersland/test/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Akira" align="right" />
@@ -58,7 +59,4 @@
 
 </p>
 <br><br><br><br><br><br>
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
