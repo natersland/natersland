@@ -40,9 +40,9 @@
  
  <h3>Things I code with</h3>
  <h6>Programming Language</h6>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ea2e2c?logo=java&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ea2e2c?logo=java&logoColor=white&style=flat" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFCE3D?style=for-the-badge&logo=python&logoColor=white&style=flat" />
   <h6>Front-End</h6>
   <img alt="React" src="https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white" />
