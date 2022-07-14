@@ -56,6 +56,9 @@
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
   <img alt="Express" src="http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white" />
   <img alt="MongoDB" src="http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <h6>UX/UI & Graphic Design</h6>
+  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FFA500?style=flat&logo=adobeillustrator&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-00C8FF?style=flat&logo=adobephotoshop&logoColor=white" />
   <h6>Utilities & Tools</h6>
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
@@ -63,7 +66,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white" />
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white" />
-
+  
 </p>
 <br><br><br><br><br><br>
 
