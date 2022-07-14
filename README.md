@@ -17,8 +17,8 @@
 <p align="left">
 - 🪐Always learning and try something new. <br>
 - ⚡️Currently learning in 
-  <img alt="Java" src="https://img.shields.io/badge/Java-ea2e2c?logo=java&style=flat" /> 
-  <img alt="Kotlin" src="https://img.shields.io/badge/Flutter-B125EA?logo=kotlin&logoColor=white&style=flat" /> <br>
+ <img alt="Java" src="https://img.shields.io/badge/Java-ea2e2c?logo=java&logoColor=white&style=flat" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" /> <br>
  - 📫 Contact me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a><br>
 <br>
 </p>
