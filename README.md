@@ -31,14 +31,13 @@
  <div>
    <p>&nbsp;
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=natersland&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="akira" /><br><br>
-     <img src="https://github.com/natersland/test/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Akira" align="center" />
    </p>
   </div>
  </div>
 <br><h2></h2><br>
 <p>
   
- 
+ <img src="https://github.com/natersland/test/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Akira" align="center" />
  <h3>Things I code with</h3>
  <h6>Programming Language</h6>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
