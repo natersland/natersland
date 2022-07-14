@@ -15,8 +15,9 @@
   <br><br>
 
 <p align="left">
-- 🪐Always learning and try something new. <br>
-- ⚡️Currently learning in 
+- 👨🏻‍🏭I'm a Mobile Developer <br>
+- 🪐I love experimenting with new technologies and build excitement projects! <br>
+- ⚡️I'm Currently learning in 
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
   <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-a4c639?logo=androidstudio&logoColor=white&style=flat" /> 
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-41A0F8?logo=IntelliJIDEA&logoColor=white&style=flat" />
