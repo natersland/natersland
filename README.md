@@ -1,5 +1,5 @@
 
-# 🚀🐳 Hi, I'm Akira! 🐳🚀
+# 🚀🐳 Hi, I'm Akira. Welcome to my Github! 🐳🚀
  <a href="https://www.linkedin.com/in/akira-chenyavanij-18661714a/"><img alt="Linkedin" src="https://img.shields.io/badge/-Akira_Chenyavanij-0274b3?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Nut1974"><img alt="Discord" src="https://img.shields.io/badge/-Nut1974-5865F2?style=flat&logo=discord&logoColor=white" /></a>
    <a href="mailto:akira.chenyavanij@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-akira.chenyavanij@gmail.com-bc4c41?style=flat&logo=gmail&logoColor=white" /></a>
@@ -26,7 +26,7 @@
 
 ## 🛠️ My Technologies Stack
 
-### 👨‍💻 Programming languages
+### 👾 Programming languages
 
 <p>
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
@@ -57,14 +57,14 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 
-### 🗄️ UX/UI & Grapgic Design
+### 🎨 UX/UI & Grapgic Design
 
 <p>
     <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FFA500?style=flat&logo=adobeillustrator&logoColor=white" />
     <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-00C8FF?style=flat&logo=adobephotoshop&logoColor=white" />
 </p>
 
-### 💻 Software and tools
+### 🛩 Software and tools
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
