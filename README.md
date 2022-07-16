@@ -1,74 +1,89 @@
 
-<h1 align="center">🚀🐳 Hi, I'm Akira! 🐳🚀</h1> 
-
-<h3 align="center">Coding is like a fantasy!</h3>
-<div align="center">
+# 🚀🐳 Hi, I'm Akira! 🐳🚀
  <a href="https://www.linkedin.com/in/akira-chenyavanij-18661714a/"><img alt="Linkedin" src="https://img.shields.io/badge/-Akira_Chenyavanij-0274b3?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Nut1974"><img alt="Discord" src="https://img.shields.io/badge/-Nut1974-5865F2?style=flat&logo=discord&logoColor=white" /></a>
    <a href="mailto:akira.chenyavanij@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-akira.chenyavanij@gmail.com-bc4c41?style=flat&logo=gmail&logoColor=white" /></a>
 
- <div>
-
-<br><br>
-  
-<img src="https://github.com/natersland/test/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Akira" align="right" />
-  <br><br>
-
-<p align="left">
-- 👨🏻‍🏭I'm a Mobile Developer <br>
-- 🪐I love experimenting with new technologies and build excitement projects! <br>
-- 🚩Currently Challenge: <a href="https://github.com/natersland/100-Days-of-Android-Developer">100 Days of Android Developer</a> <br>
-- ⚡️I'm Currently learning in 
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-a4c639?logo=androidstudio&logoColor=white&style=flat" /> 
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-41A0F8?logo=IntelliJIDEA&logoColor=white&style=flat" />
-  <br>
- - 📫How to reach me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a><br>
-<br>
-</p>
-<br><h2></h2><br><br><br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="408" height="318" />
 
 
-<div align="center">
- <div>
-   <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=natersland&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="akira" /><br><br>
-   </p>
-  </div>
- </div>
-<br><h2></h2><br>
+### About Me:
+
+- 👨🏻‍🏭I'm a **Mobile Developer**
+- 🪐I love experimenting with new technologies and build excitement projects!
+- 🚩I'm Currently Challenge On: <a href="https://github.com/natersland/100-Days-of-Android-Developer">100 Days of Android Developer</a> <br>
+- ⚡️I'm Currently learning in:
+  - <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
+  - <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-a4c639?logo=androidstudio&logoColor=white&style=flat" /> 
+  - <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-41A0F8?logo=IntelliJIDEA&logoColor=white&style=flat" />
+- 📫How to reach me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;
+
+---
+
+## 🛠️ My Technologies Stack
+
+### 👨‍💻 Programming languages
+
 <p>
-  
- <img src="https://github.com/natersland/test/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Akira" align="center" />
- <h3>Things I code with</h3>
- <h6>Programming Language</h6>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ea2e2c?logo=java&logoColor=white&style=flat" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFCE3D?style=for-the-badge&logo=python&logoColor=white&style=flat" />
-  <h6>Front-End</h6>
-  <img alt="React" src="https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white" />
-  <img alt="Style Component" src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
-  <img alt="MUI" src="https://img.shields.io/badge/-MUI-007fff?style=flat&logo=mui&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="Css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-18b7b9?style=flat&logo=tailwindcss&logoColor=white" />
-  <img alt="Scss" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-  <h6>Back-End</h6>
-  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-  <img alt="Express" src="http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white" />
-  <img alt="MongoDB" src="http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <h6>UX/UI & Graphic Design</h6>
-  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FFA500?style=flat&logo=adobeillustrator&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-00C8FF?style=flat&logo=adobephotoshop&logoColor=white" />
-  <h6>Utilities & Tools</h6>
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white" />
-  <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white" />
-  
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-ea2e2c?logo=java&logoColor=white&style=flat" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
-<br><br><br><br><br><br>
+
+### 🧰 Frameworks and libraries
+
+<p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+</p>
+
+### 🗄️ Databases and cloud hosting
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+</p>
+
+### 🗄️ UX/UI & Grapgic Design
+
+<p>
+    <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FFA500?style=flat&logo=adobeillustrator&logoColor=white" />
+    <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-00C8FF?style=flat&logo=adobephotoshop&logoColor=white" />
+</p>
+
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white" />
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-a4c639?logo=androidstudio&logoColor=white&style=flat" /> 
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-41A0F8?logo=IntelliJIDEA&logoColor=white&style=flat" />
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white" />
+    <img alt="Notion" src="https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white" />
+    <img alt="Jira" src="https://img.shields.io/badge/-Jira-004EC2?style=flat&logo=jira&logoColor=white" />
+    
+</p>
+
+---
+
+## 📊 Stats
+<img src="https://github.com/natersland/test/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Akira" align="left" />
+<img src="https://github.com/natersland/test/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Akira" align="right" />
+
 
