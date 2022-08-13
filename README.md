@@ -12,9 +12,7 @@
 - 👨🏻‍🏭I'm a **Mobile Developer**
 - 🪐I love experimenting with new technologies and build excitement projects!
 - ⚡️I'm currently learning in:
-  - <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
-  - <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-a4c639?logo=androidstudio&logoColor=white&style=flat" /> 
-  - <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-41A0F8?logo=IntelliJIDEA&logoColor=white&style=flat" />
+  - Android Development
 - 📫How to reach me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
