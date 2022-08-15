@@ -13,6 +13,8 @@
 - 🪐I love experimenting with new technologies and build excitement projects!
 - ⚡️I'm currently learning in:
   - Android Development
+  - UX & UI
+  - <img alt="Figma" src="https://img.shields.io/badge/Figma-1794fa?logo=figma&logoColor=white&style=flat" /> 
 - 📫How to reach me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
