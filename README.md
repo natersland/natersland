@@ -9,12 +9,15 @@
 
 ### About Me:
 
-- 👨🏻‍🏭I'm a **Mobile Developer**
+- 👨🏻‍🏭I'm a **Mobile Developer & Front-End Developer**
 - 🪐I love experimenting with new technologies and build excitement projects!
 - ⚡️I'm currently learning in:
   - Android Development
   - UX & UI
   - <img alt="Figma" src="https://img.shields.io/badge/Figma-1794fa?logo=figma&logoColor=white&style=flat" /> 
+  - <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React Native-11A3D4.svg?logo=react&logoColor=white"></a>
+  - <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-E9EAEE.svg?logo=react&logoColor=black"></a>
+  - <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-029BE5.svg?logo=firebase&logoColor=#029BE5"></a>
 - 📫How to reach me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
