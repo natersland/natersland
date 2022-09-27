@@ -52,9 +52,8 @@
 ### 🗄️ Databases and cloud hosting
 
 <p>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-029BE5.svg?logo=firebase&logoColor=#029BE5"></a>
-
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
 ### 🎨 UX/UI & Grapgic Design
