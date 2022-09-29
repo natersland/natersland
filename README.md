@@ -92,7 +92,7 @@
 ---
 
 ## 📊 Stats
-<img src="https://github.com/natersland/test/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Akira" align="left" />
-<img src="https://github.com/natersland/test/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Akira" align="right" />
+<img src="https://raw.githubusercontent.com/natersland/test/master/generated/languages.svg#gh-dark-mode-only" alt="Akira" align="left" />
+<img src="https://raw.githubusercontent.com/natersland/test/master/generated/overview.svg#gh-dark-mode-only" alt="Akira" align="right" />
 
 
