@@ -9,7 +9,7 @@
 
 ### About Me:
 
-- 👨🏻‍🏭I'm a **Mobile Developer & Front-End Developer**
+- 👨🏻‍🏭I'm a **Mobile Developer & Web Developer**
 - 🪐I love experimenting with new technologies and build excitement projects!
 - ⚡️I'm currently learning in:
   - Penetration Tester
