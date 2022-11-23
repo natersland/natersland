@@ -12,6 +12,7 @@
 - 👨🏻‍🏭I'm a **Mobile Developer & Front-End Developer**
 - 🪐I love experimenting with new technologies and build excitement projects!
 - ⚡️I'm currently learning in:
+  - Penetration Tester
   - Android Development
   - <img alt="Flutter" src="https://img.shields.io/badge/Flutter-41C8F2?logo=flutter&logoColor=white&style=flat" /> 
   - <img alt="Dart" src="https://img.shields.io/badge/Dart-005394?logo=dart&logoColor=white&style=flat" /> 
