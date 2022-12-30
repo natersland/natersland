@@ -47,6 +47,7 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <img alt="Style Component" src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
     <img alt="MUI" src="https://img.shields.io/badge/-MUI-007fff?style=flat&logo=mui&logoColor=white" />
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-18b7b9?style=flat&logo=tailwindcss&logoColor=white" />
@@ -84,7 +85,6 @@
 
 ### 👻 My Legacy (Forgotten)
 <p>
-    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
