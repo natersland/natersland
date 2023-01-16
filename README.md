@@ -4,7 +4,7 @@
   <a href="mailto:Nut1974"><img alt="Discord" src="https://img.shields.io/badge/-Nut1974-5865F2?style=flat&logo=discord&logoColor=white" /></a>
    <a href="mailto:akira.chenyavanij@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-akira.chenyavanij@gmail.com-bc4c41?style=flat&logo=gmail&logoColor=white" /></a>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/J9WiDwu4HX40o/giphy.gif" width="408" height="318" />
 
 
 ### About Me:
