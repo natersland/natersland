@@ -92,6 +92,6 @@
 ## 📊 Stats
 
 
-![](https://raw.githubusercontent.com/natersland/test/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/natersland/test/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/overview.svg#gh-dark-mode-only)
 
