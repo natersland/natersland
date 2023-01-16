@@ -40,8 +40,9 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/ReactNative-02D8FF.svg?logo=react&logoColor=white"></a>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-41C8F2?logo=flutter&logoColor=white&style=flat" /> 
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
