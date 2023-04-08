@@ -9,7 +9,7 @@
 
 ### About Me:
 
-- 👨🏻‍🏭I'm a **Mobile Developer & Web Developer**
+- 👨🏻‍🏭I'm a **Flutter, Android & Web Developer**
 - 🪐I love experimenting with new technologies and build excitement projects!
 - ⚡️I'm currently learning in:
   - Penetration Tester
