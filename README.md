@@ -12,9 +12,7 @@
 - 👨🏻‍🏭I'm a **Flutter, Android & Web Developer**
 - 🪐I love experimenting with new technologies and build excitement projects!
 - ⚡️I'm currently learning in:
-  - Penetration Tester
-  - Advanced Android Development with kotlin
-  - Advanced React
+  - Secure Coding
 - 📫How to reach me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
