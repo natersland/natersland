@@ -15,7 +15,9 @@
   - Secure Coding
 - 📫How to reach me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;
 
 &nbsp;
 
