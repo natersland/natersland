@@ -9,11 +9,11 @@
 
 ### About Me:
 
-- 👨🏻‍🏭I'm a **Flutter, Android & Web Developer**
+- <p>I'm <span><img alt="Flutter" src="https://img.shields.io/badge/Flutter-41C8F2?logo=flutter&logoColor=white&style=flat"/></span>, <a href="#"><img alt="Android" src ="https://img.shields.io/badge/Android-4ea94b.svg?logo=android&logoColor=white"></a>, and <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> developer</p>
 - 🪐I love experimenting with new technologies and build excitement projects!
 - ⚡️I'm currently learning in:
   - Secure Coding
-- 📫How to reach me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a><br>
+- 📫How to reach me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
