@@ -11,7 +11,7 @@
 
 - <p>I'm <span><img alt="Flutter" src="https://img.shields.io/badge/Flutter-41C8F2?logo=flutter&logoColor=white&style=flat"/></span>, <a href="#"><img alt="Android" src ="https://img.shields.io/badge/Android-4ea94b.svg?logo=android&logoColor=white"></a>, and <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> developer</p>
 - 🪐Discover and try new thing is my DNA.
-- ⚔️I'm souls player fan boy game.
+- ⚔️I'm souls player fan boy.
 - 🌝My name spell like japanese people but I'm Thai (hmm don't believe me?)
 - 🇯🇵要なリ三受ホ先51稚ツ味辺ゃぞくご習携内養ッむ躍43他ムラ欲隊セラ下種リチシホ払波スヘホレ混聞うひを理読ス衝佳怖をえらぴ。
 - ⚡️Now I'm exploring in:
