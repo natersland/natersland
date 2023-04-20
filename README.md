@@ -70,4 +70,8 @@
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/overview.svg#gh-dark-mode-only)
+ 
+ </br>
+ <p align="center">つづく。</p>
+ 
 
