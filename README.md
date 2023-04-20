@@ -10,10 +10,13 @@
 ### About Me:
 
 - <p>I'm <span><img alt="Flutter" src="https://img.shields.io/badge/Flutter-41C8F2?logo=flutter&logoColor=white&style=flat"/></span>, <a href="#"><img alt="Android" src ="https://img.shields.io/badge/Android-4ea94b.svg?logo=android&logoColor=white"></a>, and <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> developer</p>
-- 🪐I love experimenting with new technologies and build excitement projects!
-- ⚡️I'm currently learning in:
+- 🪐Discover and try new thing is my DNA.
+- ⚔️I'm souls player fan boy game.
+- 🌝My name spell like japanese people but I'm Thai (hmm don't believe me?)
+- 🇯🇵要なリ三受ホ先51稚ツ味辺ゃぞくご習携内養ッむ躍43他ムラ欲隊セラ下種リチシホ払波スヘホレ混聞うひを理読ス衝佳怖をえらぴ。
+- ⚡️Now I'm exploring in:
   - Secure Coding
-- 📫How to reach me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a>
+- 📫Where to send magic email: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a>
 
 ### My Fantasy Projects:
 - [June 2022] <a href="https://github.com/natersland/get-that-job-react">Get That Job </a><a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
@@ -26,7 +29,7 @@
 
 ---
 
-## 🛠️ My Technologies Stack
+## 🪄 Magic tools and language I can use
 
 <Span>
     <img alt="Dart" src="https://img.shields.io/badge/Dart-005394?logo=dart&logoColor=white&style=flat" /> 
@@ -62,7 +65,7 @@
 
 ---
 
-## 📊 Stats
+## 🤔 Where am I now
 
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
