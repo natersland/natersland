@@ -15,7 +15,7 @@
   - Secure Coding
 - 📫How to reach me: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a>
 
-### My Projects:
+### My Fantasy Projects:
 - [June 2022] <a href="https://github.com/natersland/get-that-job-react">Get That Job </a><a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
 - [Sep 2022] <a href="https://github.com/natersland/pet-hero-android">Pet Hero </a><a href="#"><img alt="Android" src ="https://img.shields.io/badge/Android-4ea94b.svg?logo=android&logoColor=white"></a> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" /> 
 - [Feb 2023] <a href="https://github.com/natersland/PiggyRich-NativeAndroid">Piggy Rich </a><a href="#"><img alt="Android" src ="https://img.shields.io/badge/Android-4ea94b.svg?logo=android&logoColor=white"></a> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" /> 
