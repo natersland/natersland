@@ -16,7 +16,7 @@
 - 🇯🇵要なリ三受ホ先51稚ツ味辺ゃぞくご習携内養ッむ躍43他ムラ欲隊セラ下種リチシホ払波スヘホレ混聞うひを理読ス衝佳怖をえらぴ。
 - ⚡️Now I'm exploring in:
   - Secure Coding
-- 📫Where to send magic email: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a>
+- 📫Where to send magic mail: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a>
 
 ### My Fantasy Projects:
 - [April 2023] <a href="https://github.com/natersland/catquest-flutter">Cat Quest </a><img alt="Flutter" src="https://img.shields.io/badge/Flutter-41C8F2?logo=flutter&logoColor=white&style=flat"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-005394?logo=dart&logoColor=white&style=flat" />
