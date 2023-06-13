@@ -15,7 +15,7 @@
 - 🌝My name spell like japanese people but I'm Thai (hmm don't believe me?)
 - 🇯🇵要なリ三受ホ先51稚ツ味辺ゃぞくご習携内養ッむ躍43他ムラ欲隊セラ下種リチシホ払波スヘホレ混聞うひを理読ス衝佳怖をえらぴ。
 - ⚡️Now I'm exploring in:
-  - Secure Coding
+  - Progressive web app
 - 📫Where to send magic mail: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a>
 
 ### My Fantasy Projects:
