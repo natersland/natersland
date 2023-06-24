@@ -19,6 +19,7 @@
 - 📫Where to send magic mail: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a>
 
 ### My Fantasy Projects:
+- [July 2023] <a href="#">เบาะแส (Case Close) </a>
 - [April 2023] <a href="https://github.com/natersland/catquest-flutter">Cat Quest </a><img alt="Flutter" src="https://img.shields.io/badge/Flutter-41C8F2?logo=flutter&logoColor=white&style=flat"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-005394?logo=dart&logoColor=white&style=flat" />
 - [Feb 2023] <a href="https://github.com/natersland/PiggyRich-NativeAndroid">Piggy Rich </a><a href="#"><img alt="Android" src ="https://img.shields.io/badge/Android-4ea94b.svg?logo=android&logoColor=white"></a> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" /> 
 - [Jan 2023] <a href="https://github.com/natersland/akira_website-react">Akira Portfolio Website </a><a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
