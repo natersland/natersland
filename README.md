@@ -21,7 +21,7 @@
 ### My Fantasy Projects:
 - [July 2023] <a href="#">เบาะแส (Case Close) </a>
 - [April 2023] <a href="https://github.com/natersland/catquest-flutter">Cat Quest </a><img alt="Flutter" src="https://img.shields.io/badge/Flutter-41C8F2?logo=flutter&logoColor=white&style=flat"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-005394?logo=dart&logoColor=white&style=flat" />
-- [June 2022] <a href="https://github.com/natersland/get-that-job-react">Get That Job </a> <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" /> | <a href="https://get-that-job-fantasyy.onrender.com/">Web </a>
+- [June 2022] <a href="https://github.com/natersland/get-that-job-react">Get That Job </a> <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" /> <span>|</span> <a href="https://get-that-job-fantasyy.onrender.com/">Web </a>
 
 
 
