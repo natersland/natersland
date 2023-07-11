@@ -9,7 +9,7 @@
 
 ### About Me:
 
-- I'm Fantasy Software Engineer Web & Mobile who craft project by magic.
+- 🪄I'm Fantasy Software Engineer Web & Mobile who craft project by magic.
 - 🪐Discover and try new thing is my DNA.
 - ⚔️I'm souls player.
 - 🌝My name is spelled like Japanese people but I'm Thai (hmm don't believe me?)
