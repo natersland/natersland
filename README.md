@@ -19,7 +19,7 @@
 - 📫Where to send magic mail: <a href="mailto:akira.chenyavanij@gmail.com">akira.chenyavanij@gmail.com</a>
 
 ### My Fantasy Projects:
-- [September - October 2023] <a href="#">เว็บแบ่งขายที่ดิน</a>  <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/Nest.js-D61F49.svg?logo=nestjs&logoColor=white"></a>
+- [September - October 2023] <a href="#">เว็บที่ดินแบ่งแปลง</a>  <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/Nest.js-D61F49.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-309AEE.svg?logo=docker&logoColor=white"></a> <a href="#"><img alt="PostgresSQL" src="https://custom-icon-badges.herokuapp.com/badge/PostgresSQL-2F6893.svg?logo=Postgres&logoColor=white"></a>
 - [July 2023] <a href="https://github.com/natersland/case-closed">เบาะแส (Case Closed) </a> <img alt="NextJs" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" /> <a href="#"><a href="#"><img alt="tRPC" src="https://img.shields.io/badge/tRPC-3684BF.svg?logo=trpc&logoColor=white"></a> <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/Nest.js-D61F49.svg?logo=nestjs&logoColor=white"></a> <a href="#"></a> <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-0D344B.svg?logo=prisma&logoColor=white"></a>     <a href="#"><img alt="PWA" src="https://img.shields.io/badge/PWA-5A07CA.svg?logo=pwa&logoColor=%2361DAFB"></a> <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-309AEE.svg?logo=docker&logoColor=white"></a>
 
