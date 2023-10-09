@@ -84,11 +84,79 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2033%20mins-blue)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 204.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 355 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 28 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                531 commits         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+🌆 Daytime                747 commits         ██████████░░░░░░░░░░░░░░░   39.07 % 
+🌃 Evening                392 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+🌙 Night                  242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Wednesday                366 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Thursday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Friday                   353 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Saturday                 134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Sunday                   270 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+Kotlin                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Dart                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
+
+
+ Last Updated on 09/10/2023 15:16:10 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
