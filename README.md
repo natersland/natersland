@@ -85,6 +85,10 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
