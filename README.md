@@ -88,7 +88,7 @@
 
 > 📦 204.3 kB Used in GitHub's Storage 
  > 
-> 🏆 371 Contributions in the Year 2023
+> 🏆 372 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,16 +123,17 @@ Sunday                   270 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     40 mins             ████████████████████████░   96.75 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+natersland               42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +153,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2023 18:35:15 UTC
+ Last Updated on 10/10/2023 18:35:03 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
