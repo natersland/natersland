@@ -18,3 +18,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: false
           SHOW_LANGUAGE_PER_REPO: true
           DEBUG_LOGGING: false
+          SHOW_PROJECTS: false
