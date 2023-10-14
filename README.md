@@ -86,7 +86,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 204.3 kB Used in GitHub's Storage 
+> 📦 204.4 kB Used in GitHub's Storage 
  > 
 > 🏆 373 Contributions in the Year 2023
  > 
@@ -123,8 +123,8 @@ Sunday                   270 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               6 hrs 31 mins       ██████████████████████░░░   88.30 % 
-YAML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+TypeScript               6 hrs 31 mins       ██████████████████████░░░   88.28 % 
+YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
@@ -153,7 +153,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2023 18:35:59 UTC
+ Last Updated on 14/10/2023 18:33:51 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
