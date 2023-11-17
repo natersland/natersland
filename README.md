@@ -123,14 +123,14 @@ Sunday                   270 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               48 mins             ███████████████████████░░   93.96 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+TypeScript               26 mins             ██████████████████████░░░   89.39 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      51 mins             █████████████████████████   100.00 % 
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,7 +150,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2023 18:36:13 UTC
+ Last Updated on 17/11/2023 18:36:02 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
