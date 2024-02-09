@@ -57,7 +57,7 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,15 +98,17 @@ Sunday                   294 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               4 mins              ██████████████████░░░░░░░   73.53 % 
-Dart                     1 min               ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+TypeScript               4 mins              ██████████████░░░░░░░░░░░   55.86 % 
+Dart                     2 mins              ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+JavaScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  6 mins              ██████████████████████░░░   87.92 % 
-Studio                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+VS Code                  8 mins              ███████████████████████░░   90.55 % 
+Studio                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,7 +128,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2024 18:33:07 UTC
+ Last Updated on 09/02/2024 18:33:07 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
