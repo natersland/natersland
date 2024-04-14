@@ -57,8 +57,6 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2054%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 230.4 kB Used in GitHub's Storage 
@@ -127,7 +125,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2024 18:33:37 UTC
+ Last Updated on 14/04/2024 21:08:40 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
