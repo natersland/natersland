@@ -57,11 +57,13 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 230.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 112 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,16 +98,17 @@ Sunday                   313 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       12 mins             █████████████████░░░░░░░░   69.41 % 
-Dart                     5 mins              ████████░░░░░░░░░░░░░░░░░   30.59 % 
+Go                       14 mins             █████████████████░░░░░░░░   68.84 % 
+Dart                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+SQL                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████░░░░░░░░   66.01 % 
-Android Studio           5 mins              ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Studio                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+VS Code                  16 mins             ██████████████████░░░░░░░   71.43 % 
+Android Studio           5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Studio                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,7 +128,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2024 18:34:43 UTC
+ Last Updated on 09/05/2024 18:33:41 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
