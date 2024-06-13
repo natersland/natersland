@@ -30,6 +30,7 @@
 
 <h3>Backend</h3>
 <Span>
+    <img alt="Go" src="https://img.shields.io/badge/Go-02aed9.svg?logo=go&logoColor=white" />
     <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-0D344B.svg?logo=prisma&logoColor=white"></a>
     <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/Nest.js-D61F49.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-309AEE.svg?logo=docker&logoColor=white"></a>
