@@ -17,6 +17,7 @@
 <h3>Backend</h3>
 <Span>
     <img alt="Go" src="https://img.shields.io/badge/Go-02aed9.svg?logo=go&logoColor=white" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
     <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-0D344B.svg?logo=prisma&logoColor=white"></a>
     <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/Nest.js-D61F49.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-309AEE.svg?logo=docker&logoColor=white"></a>
@@ -30,7 +31,6 @@
 
 <h3>Web Development</h3>
 <Span>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
     <img alt="NextJs" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" />
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -41,6 +41,7 @@
     <img alt="Style Component" src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
 </span>
+
 
 <h3>Other</h3>
 <span>
