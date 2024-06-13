@@ -6,20 +6,6 @@
 
 ## 🪄 Magic tools and language I can use
 
-<h3>Web Development</h3>
-<Span>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-    <img alt="NextJs" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" />
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <img alt="tRPC" src="https://img.shields.io/badge/tRPC-3684BF.svg?logo=trpc&logoColor=white"></a>
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" /> 
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
-    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38BEF8.svg?logo=TailwindCSS&logoColor=white"></a>
-    <img alt="Style Component" src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
-    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-</span>
-
 <h3>Mobile Development</h3>
 <Span>
     <img alt="Dart" src="https://img.shields.io/badge/Dart-005394?logo=dart&logoColor=white&style=flat" /> 
@@ -40,6 +26,20 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E.svg?logo=Supabase&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-029BE5.svg?logo=firebase&logoColor=#029BE5"></a>
+</span>
+
+<h3>Web Development</h3>
+<Span>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+    <img alt="NextJs" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" />
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <img alt="tRPC" src="https://img.shields.io/badge/tRPC-3684BF.svg?logo=trpc&logoColor=white"></a>
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" /> 
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
+    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38BEF8.svg?logo=TailwindCSS&logoColor=white"></a>
+    <img alt="Style Component" src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
 </span>
 
 <h3>Other</h3>
