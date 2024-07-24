@@ -59,11 +59,11 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%2059%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 233.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 253 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,44 +71,6 @@
  > 
 > 🔑 43 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                628 commits         ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-🌆 Daytime                848 commits         █████████░░░░░░░░░░░░░░░░   36.68 % 
-🌃 Evening                474 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-🌙 Night                  362 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   342 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Tuesday                  263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Wednesday                454 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Thursday                 347 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Friday                   417 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Saturday                 163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Sunday                   326 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Dart                     7 hrs 1 min         █████████████████████████   98.19 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🔥 Editors: 
-Android Studio           7 hrs 9 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 hrs 9 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -126,7 +88,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2024 18:36:19 UTC
+ Last Updated on 24/07/2024 18:38:12 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
