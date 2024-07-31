@@ -59,13 +59,11 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2028%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 233.3 kB Used in GitHub's Storage 
- > 
-> 🏆 253 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,18 +98,18 @@ Sunday                   326 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     18 hrs 24 mins      █████████████████████████   99.17 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-C#                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Dart                     17 hrs 49 mins      █████████████████████████   99.23 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+C#                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Android Studio           18 hrs 29 mins      █████████████████████████   99.67 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Android Studio           17 hrs 54 mins      █████████████████████████   99.66 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Mac                      18 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +129,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2024 18:39:48 UTC
+ Last Updated on 31/07/2024 18:40:22 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
