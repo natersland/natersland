@@ -59,7 +59,7 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2052%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,17 +98,14 @@ Sunday                   326 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     8 hrs 20 mins       █████████████████████████   99.64 % 
-C#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Dart                     5 hrs 20 mins       █████████████████████████   99.94 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Android Studio           8 hrs 20 mins       █████████████████████████   99.64 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Android Studio           5 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +125,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2024 18:36:29 UTC
+ Last Updated on 03/08/2024 18:35:53 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
