@@ -59,13 +59,11 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2028%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 233.3 kB Used in GitHub's Storage 
- > 
-> 🏆 256 Contributions in the Year 2024
+> 📦 233.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,18 +98,18 @@ Sunday                   350 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     15 hrs 36 mins      ████████████████░░░░░░░░░   62.37 % 
-TypeScript               9 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.60 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Dart                     15 hrs 36 mins      ███████████████░░░░░░░░░░   60.59 % 
+TypeScript               10 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   39.36 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           15 hrs 36 mins      ████████████████░░░░░░░░░   62.38 % 
-VS Code                  9 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.62 % 
+Android Studio           15 hrs 36 mins      ███████████████░░░░░░░░░░   60.59 % 
+VS Code                  10 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   39.41 % 
 
 💻 Operating System: 
-Mac                      25 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      25 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +129,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2024 18:40:53 UTC
+ Last Updated on 01/09/2024 18:40:11 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
