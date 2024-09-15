@@ -59,19 +59,17 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 246.1 kB Used in GitHub's Storage 
  > 
-> 🏆 314 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 23 Public Repositories 
  > 
-> 🔑 44 Private Repositories 
+> 🔑 47 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -100,18 +98,18 @@ Sunday                   358 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     13 hrs 33 mins      ██████████████░░░░░░░░░░░   54.03 % 
-TypeScript               8 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.82 % 
-Go                       2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-GraphQL                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TypeScript               19 hrs 21 mins      █████████████░░░░░░░░░░░░   51.33 % 
+Dart                     14 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   37.68 % 
+Go                       2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+YAML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-Android Studio           14 hrs 5 mins       ██████████████░░░░░░░░░░░   56.19 % 
-VS Code                  10 hrs 59 mins      ███████████░░░░░░░░░░░░░░   43.81 % 
+VS Code                  22 hrs 42 mins      ███████████████░░░░░░░░░░   60.21 % 
+Android Studio           15 hrs              ██████████░░░░░░░░░░░░░░░   39.79 % 
 
 💻 Operating System: 
-Mac                      25 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      37 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +129,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2024 18:41:03 UTC
+ Last Updated on 15/09/2024 18:41:22 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
