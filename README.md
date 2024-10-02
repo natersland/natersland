@@ -65,8 +65,6 @@
 
 > 📦 234.7 kB Used in GitHub's Storage 
  > 
-> 🏆 295 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -100,14 +98,15 @@ Sunday                   352 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               12 hrs 27 mins      ████████████████████░░░░░   81.14 % 
+TypeScript               12 hrs 27 mins      ████████████████████░░░░░   81.12 % 
 Go                       1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 21 mins      █████████████████████████   99.98 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
 Mac                      15 hrs 21 mins      █████████████████████████   100.00 % 
@@ -130,7 +129,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2024 18:42:44 UTC
+ Last Updated on 02/10/2024 18:43:57 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
