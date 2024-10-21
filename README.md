@@ -59,11 +59,13 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%2044%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 235.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 318 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,17 +100,17 @@ Sunday                   358 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               3 hrs 5 mins        ████████████████████████░   94.92 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               3 hrs 35 mins       ████████████████████████░   94.87 % 
+CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +130,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2024 18:41:13 UTC
+ Last Updated on 21/10/2024 18:43:28 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
