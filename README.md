@@ -65,7 +65,7 @@
 
 > 📦 235.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 318 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,15 +100,13 @@ Sunday                   358 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-GDScript3                48 mins             █████████████████░░░░░░░░   69.49 % 
-TypeScript               21 mins             ████████░░░░░░░░░░░░░░░░░   30.51 % 
+TypeScript               21 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Godot                    48 mins             █████████████████░░░░░░░░   69.49 % 
-VS Code                  21 mins             ████████░░░░░░░░░░░░░░░░░   30.51 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +126,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2024 18:43:00 UTC
+ Last Updated on 30/10/2024 18:42:48 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
