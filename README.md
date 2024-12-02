@@ -59,6 +59,8 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%2019%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 235.8 kB Used in GitHub's Storage 
@@ -69,6 +71,42 @@
  > 
 > 🔑 30 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                705 commits         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+🌆 Daytime                905 commits         █████████░░░░░░░░░░░░░░░░   35.97 % 
+🌃 Evening                484 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+🌙 Night                  422 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Tuesday                  258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Wednesday                464 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Thursday                 377 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Friday                   473 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Saturday                 226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Sunday                   358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -86,7 +124,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 18:42:35 UTC
+ Last Updated on 02/12/2024 18:45:06 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
