@@ -58,11 +58,11 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-689%20hrs%2054%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 236.8 kB Used in GitHub's Storage 
- > 
-> 🏆 35 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,6 +70,42 @@
  > 
 > 🔑 35 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                636 commits         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+🌆 Daytime                885 commits         █████████░░░░░░░░░░░░░░░░   37.33 % 
+🌃 Evening                477 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+🌙 Night                  373 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Tuesday                  254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Wednesday                464 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Thursday                 366 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Friday                   409 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Sunday                   326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -87,7 +123,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 18:39:59 UTC
+ Last Updated on 03/05/2025 18:38:39 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
