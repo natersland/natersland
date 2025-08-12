@@ -58,13 +58,11 @@
 ## 🤔 Where am I now
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-787%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 270.8 kB Used in GitHub's Storage 
- > 
-> 🏆 200 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,18 +97,18 @@ Sunday                   332 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     9 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.62 % 
-Markdown                 7 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.61 % 
-TypeScript               5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-JavaScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Dart                     7 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.26 % 
+Markdown                 6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
+TypeScript               5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Groovy                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-Cursor                   21 hrs 39 mins      ██████████████████████░░░   87.39 % 
-Android Studio           3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Cursor                   19 hrs              ███████████████████████░░   91.11 % 
+Android Studio           1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 💻 Operating System: 
-Mac                      24 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +128,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2025 18:44:27 UTC
+ Last Updated on 12/08/2025 18:43:51 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
