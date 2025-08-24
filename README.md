@@ -11,6 +11,8 @@
 ### Mobile & Frontend
 [![My Skills](https://skillicons.dev/icons?i=flutter,nextjs,react,tailwind)](https://skillicons.dev)
 
+Note: I once brewed a Native Android project with Kotlin 1,200 years ago… today I only summon bugs 🤣
+
 ### Game Development
 [![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
 
@@ -18,7 +20,9 @@
 [![My Skills](https://skillicons.dev/icons?i=nestjs,express,firebase,prisma,supabase)](https://skillicons.dev)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,bevy)](https://skillicons.dev)
+
+Note: I have no clue what bird that rune icon is, but I believe it’s a lucky spirit animal (สัตว์มงคล) for me.
 
 ### Cloud & Deployment
 [![My Skills](https://skillicons.dev/icons?i=docker,gcp,vercel)](https://skillicons.dev)
