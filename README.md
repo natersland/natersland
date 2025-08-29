@@ -35,7 +35,7 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2019%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,17 +76,17 @@ Sunday                   341 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   5 hrs 57 mins       ████████████████████░░░░░   80.42 % 
-TypeScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Python                   2 hrs 6 mins        ███████████████░░░░░░░░░░   59.92 % 
+TypeScript               55 mins             ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+SQL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 24 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 18:41:15 UTC
+ Last Updated on 29/08/2025 18:39:26 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
