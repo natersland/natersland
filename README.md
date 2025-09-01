@@ -41,6 +41,8 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 
 > 📦 271.9 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -74,17 +76,17 @@ Sunday                   341 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   2 hrs 6 mins        ███████████████████████░░   93.36 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Python                   2 hrs 5 mins        ███████████████████████░░   93.46 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 15 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +106,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2025 18:39:21 UTC
+ Last Updated on 01/09/2025 18:40:10 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
