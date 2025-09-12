@@ -41,6 +41,8 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 
 > 📦 272.0 kB Used in GitHub's Storage 
  > 
+> 🏆 240 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -74,17 +76,13 @@ Sunday                   341 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   1 hr 13 mins        ███████████████████░░░░░░   75.38 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +102,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2025 18:39:19 UTC
+ Last Updated on 12/09/2025 18:38:12 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
