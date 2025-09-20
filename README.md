@@ -35,8 +35,6 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2013%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 272.0 kB Used in GitHub's Storage 
@@ -49,42 +47,6 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
  > 
 > 🔑 42 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                663 commits         ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-🌆 Daytime                915 commits         █████████░░░░░░░░░░░░░░░░   35.62 % 
-🌃 Evening                548 commits         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-🌙 Night                  443 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Tuesday                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Wednesday                489 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Thursday                 396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Friday                   452 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Saturday                 247 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Sunday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -102,7 +64,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 18:40:19 UTC
+ Last Updated on 20/09/2025 18:37:51 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
