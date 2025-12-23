@@ -35,7 +35,7 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-815%20hrs%2017%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,15 +76,17 @@ Sunday                   341 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     20 mins             ██████████████░░░░░░░░░░░   57.57 % 
-Markdown                 15 mins             ███████████░░░░░░░░░░░░░░   42.43 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Dart                     1 hr 7 mins         ██████████████░░░░░░░░░░░   54.26 % 
+YAML                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-Android Studio           35 mins             █████████████████████████   100.00 % 
+Android Studio           2 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +106,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2025 18:44:33 UTC
+ Last Updated on 23/12/2025 18:44:44 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
