@@ -35,7 +35,7 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,17 +76,17 @@ Sunday                   341 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     5 hrs 48 mins       ███████████████████░░░░░░   74.54 % 
-YAML                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Gradle                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Dart                     5 hrs 50 mins       ███████████████████░░░░░░   74.64 % 
+YAML                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Gradle                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 Image (svg)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Android Studio           7 hrs 47 mins       █████████████████████████   100.00 % 
+Android Studio           7 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2025 18:43:19 UTC
+ Last Updated on 29/12/2025 18:43:46 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
