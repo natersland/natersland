@@ -35,7 +35,7 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-822%20hrs%2039%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,17 +76,17 @@ Sunday                   341 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     5 hrs 3 mins        ████████████████████░░░░░   79.68 % 
-YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Gradle                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Image (svg)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Dart                     6 hrs 4 mins        █████████████████████░░░░   82.50 % 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Gradle                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Image (svg)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Android Studio           6 hrs 20 mins       █████████████████████████   100.00 % 
+Android Studio           7 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2025 18:45:04 UTC
+ Last Updated on 31/12/2025 18:43:55 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
