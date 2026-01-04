@@ -35,11 +35,13 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2041%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 272.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,6 +49,42 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
  > 
 > 🔑 43 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                663 commits         ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+🌆 Daytime                923 commits         █████████░░░░░░░░░░░░░░░░   35.73 % 
+🌃 Evening                554 commits         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+🌙 Night                  443 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Tuesday                  275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Wednesday                491 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Thursday                 399 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Friday                   455 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Saturday                 247 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Sunday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Dart                     1 hr 3 mins         █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Android Studio           1 hr 3 mins         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -64,7 +102,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:42:54 UTC
+ Last Updated on 04/01/2026 18:43:00 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
