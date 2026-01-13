@@ -76,16 +76,14 @@ Sunday                   345 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     2 hrs 27 mins       █████████████████████████   99.54 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Dart                     59 mins             █████████████████████████   100.00 % 
 Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           2 hrs 27 mins       █████████████████████████   99.54 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Android Studio           59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +103,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2026 18:45:17 UTC
+ Last Updated on 13/01/2026 18:44:49 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
