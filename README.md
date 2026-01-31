@@ -35,7 +35,7 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%2027%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,13 +76,17 @@ Sunday                   345 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               31 mins             █████████████████████████   100.00 % 
+TypeScript               31 mins             ████████████████████░░░░░   80.05 % 
+Dart                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-Cursor                   31 mins             █████████████████████████   100.00 % 
+Cursor                   31 mins             ████████████████████░░░░░   80.05 % 
+Android Studio           7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,7 +106,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2026 18:46:26 UTC
+ Last Updated on 31/01/2026 18:45:15 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
