@@ -35,7 +35,7 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,18 +76,18 @@ Sunday                   345 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 1 hr 10 mins        ████████████░░░░░░░░░░░░░   47.62 % 
-Other                    1 hr 7 mins         ███████████░░░░░░░░░░░░░░   45.44 % 
-Dart                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Markdown                 1 hr 7 mins         ███████████░░░░░░░░░░░░░░   42.38 % 
+Other                    1 hr 7 mins         ███████████░░░░░░░░░░░░░░   42.09 % 
+TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Dart                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 22 mins       ████████████████████████░   96.79 % 
-Cursor                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Antigravity              2 hrs 20 mins       ██████████████████████░░░   87.93 % 
+Cursor                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 
 💻 Operating System: 
-Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +107,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 18:49:13 UTC
+ Last Updated on 24/02/2026 18:48:44 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
