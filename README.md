@@ -35,7 +35,7 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-882%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-882%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,19 +76,18 @@ Sunday                   346 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     5 hrs 28 mins       ███████████████░░░░░░░░░░   58.93 % 
-Markdown                 2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Dart                     5 hrs 31 mins       ███████████████░░░░░░░░░░   60.94 % 
+Markdown                 2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.93 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+C++                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-Antigravity              8 hrs 21 mins       ██████████████████████░░░   89.93 % 
-Android Studio           39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Cursor                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Antigravity              8 hrs 24 mins       ███████████████████████░░   92.70 % 
+Android Studio           39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 💻 Operating System: 
-Mac                      9 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +107,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2026 18:46:54 UTC
+ Last Updated on 03/03/2026 18:47:41 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
