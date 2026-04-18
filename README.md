@@ -35,8 +35,6 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2025%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 340.9 kB Used in GitHub's Storage 
@@ -76,17 +74,17 @@ Sunday                   347 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    1 hr 5 mins         ████████████████████████░   95.81 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    1 hr 14 mins        █████████████████████░░░░   83.60 % 
+TypeScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+TSConfig                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-Antigravity              1 hr 8 mins         █████████████████████████   100.00 % 
+Antigravity              1 hr 29 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +104,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 18:48:07 UTC
+ Last Updated on 18/04/2026 18:46:56 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
