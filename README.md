@@ -35,7 +35,7 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2052%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,17 +76,17 @@ Sunday                   390 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   12 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-TypeScript               9 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Other                    6 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Markdown                 6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-HTML                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Python                   10 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   32.59 % 
+TypeScript               7 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Markdown                 4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Other                    4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+HTML                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 
 🔥 Editors: 
-Antigravity              41 hrs 34 mins      █████████████████████████   100.00 % 
+Antigravity              33 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      41 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 19:14:22 UTC
+ Last Updated on 20/05/2026 19:18:25 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
