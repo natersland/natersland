@@ -35,13 +35,11 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%204%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 397.0 kB Used in GitHub's Storage 
+> 📦 398.5 kB Used in GitHub's Storage 
  > 
-> 🏆 437 Contributions in the Year 2026
+> 🏆 443 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,46 +47,6 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
  > 
 > 🔑 51 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                716 commits         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-🌆 Daytime                1055 commits        █████████░░░░░░░░░░░░░░░░   35.46 % 
-🌃 Evening                674 commits         ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-🌙 Night                  530 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   445 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Tuesday                  346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Wednesday                549 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Thursday                 447 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Friday                   508 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Saturday                 290 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Sunday                   390 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Markdown                 5 hrs 59 mins       ████████████████░░░░░░░░░   65.00 % 
-TypeScript               1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Python                   1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 12 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      9 hrs 12 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -106,7 +64,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 19:18:38 UTC
+ Last Updated on 28/05/2026 19:24:57 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
