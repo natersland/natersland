@@ -35,7 +35,7 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,17 +76,17 @@ Sunday                   390 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               2 hrs 19 mins       █████████████░░░░░░░░░░░░   53.60 % 
-Markdown                 59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Python                   53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript               1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   36.13 % 
+Markdown                 1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   30.67 % 
+Python                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+CSS                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2026 19:48:02 UTC
+ Last Updated on 04/06/2026 19:18:45 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
