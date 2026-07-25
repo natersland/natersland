@@ -35,6 +35,8 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
 ## 👁️ The legend of Virtuoso
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C048%20hrs%2015%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 394.7 kB Used in GitHub's Storage 
@@ -47,6 +49,42 @@ Note: I have no clue what bird that rune icon is, but I believe it’s a lucky s
  > 
 > 🔑 51 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                717 commits         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+🌆 Daytime                1099 commits        █████████░░░░░░░░░░░░░░░░   36.31 % 
+🌃 Evening                680 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+🌙 Night                  531 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   458 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Tuesday                  365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Wednesday                557 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Thursday                 459 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Friday                   508 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Saturday                 290 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Sunday                   390 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -64,7 +102,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:32 UTC
+ Last Updated on 25/07/2026 19:42:22 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
