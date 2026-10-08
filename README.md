@@ -78,20 +78,37 @@ Sunday                   390 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████░░░░░░░░   66.59 % 
-TypeScript               0 secs              ████████░░░░░░░░░░░░░░░░░   33.41 % 
+JSON                     8 mins              █████████████░░░░░░░░░░░░   53.14 % 
+TypeScript               5 mins              ████████░░░░░░░░░░░░░░░░░   33.22 % 
+Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 
 🔥 Editors: 
-Antigravity IDE          1 min               █████████████████████████   100.00 % 
+Antigravity IDE          15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 12 mins (76.81%)
+
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+
+🔤 205,027 Input Tokens, 4,225 Output Tokens
+
+💵 $0.17 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 774 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +128,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/natersland/natersland/master/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:16:24 UTC
+ Last Updated on 08/10/2026 23:31:14 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/natersland/my-github-stat/master/generated/languages.svg#gh-dark-mode-only)
